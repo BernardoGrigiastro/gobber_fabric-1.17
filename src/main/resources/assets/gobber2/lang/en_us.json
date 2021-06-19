@@ -312,24 +312,6 @@
 	"item.gobber2.gobber2_staff_ensnarement.tip3": "Contents: %s",
 	
 	"item.gobber2.requires_redstone": "Requires redstone signal to activate",
-	
-	"block.gobber2.block_healer": "The Healer",
-	"item.gobber2.block_healer": "The Healer",
-	"item.gobber2.block_healer.tip1": "Provides regeneration and saturation",
-	"item.gobber2.block_healer.tip2": "to players within range",
-	
-	"block.gobber2.block_maturator": "The Maturator",
-	"item.gobber2.block_maturator": "The Maturator",
-	"item.gobber2.block_maturator.tip1": "Provides crop with growth acceleration in range",
-	
-	"block.gobber2.block_protector": "The Protector",
-	"item.gobber2.block_protector": "The Protector",
-	"item.gobber2.block_protector.tip1": "Deals damage to hostile mobs in range",
-		
-	"block.gobber2.block_defender": "The Defender",
-	"item.gobber2.block_defender": "The Defender",
-	"item.gobber2.block_defender.tip1": "Gives extra strength and resistance",
-	"item.gobber2.block_defender.tip2": "to players within range",
 
 	"enchantment.gobber2.smithblade": "SmithBlade",
 	"enchantment.gobber2.smithblade.desc": "Adds +1 attack damage to weapon.",

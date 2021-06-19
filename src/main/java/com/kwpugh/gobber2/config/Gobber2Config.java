@@ -113,39 +113,6 @@ public class Gobber2Config extends PartitioningSerializer.GlobalData
  		public int staffFarmerInterval = 180;
  		public boolean staffFarmerReplant = true;
  		public boolean staffEnsnarementHotileMobs = false;
- 		
- 		@Comment("\n"
- 				+"\n"
- 				+ "***********************"
-	    		+"\nDefender"
-	    		+"\n***********************") 
- 		public int defenseRadius = 16;
-		public int defenseLevel = 1;
-		
-		@Comment("\n"
-				+"\n"
-				+ "***********************"
- 	    		+"\nProtector"
- 	    		+"\n***********************") 
-		public int attackRadius = 16;
-		public int damageAmount = 3;
-		
-		@Comment("\n"
-				+"\n"
-				+ "***********************"
- 	    		+"\nHealer"
- 	    		+"\n***********************") 		
-		public int healthRadius = 16;
-		public int healthLevel = 0;
-		public float healthYellowHearts = 20;
-		
-		@Comment("\n"
-				+"\n"
-				+ "***********************"
- 	    		+"\nGrowth"
- 	    		+"\n***********************") 	
-		public int growthInterval = 360;
-		public int growthRange = 16;
 		
 		@Comment("\n"
 				+"\n"

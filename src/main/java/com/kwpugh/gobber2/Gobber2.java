@@ -7,9 +7,7 @@ import com.kwpugh.gobber2.init.EnchantmentInit;
 import com.kwpugh.gobber2.init.FuelInit;
 import com.kwpugh.gobber2.init.ItemInit;
 import com.kwpugh.gobber2.init.LootTableInit;
-//import com.kwpugh.gobber2.init.PortalInit;
 import com.kwpugh.gobber2.init.TagInit;
-//import com.kwpugh.gobber2.world.Gobber2Dimension;
 import com.kwpugh.gobber2.world.ModConfiguredFeatures;
 
 import com.kwpugh.gobber2.world.NewOreGen;
